@@ -1,0 +1,20 @@
+# Python相关忽略项
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 日志文件
+*.log
+
+# 环境配置
+.env
+
+# 本地配置文件
+block_num.txt
+eth_address.txt
+
+# VSCode相关忽略项
+.vscode/
